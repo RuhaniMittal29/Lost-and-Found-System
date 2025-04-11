@@ -6,7 +6,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Technology Stack](#technology-stack)<!-- - [Usage](#usage) --> <!-- - [Database Schema](#database-schema) - [Project Timeline](#project-timeline) -->
-- [Contributors](#contributors)
 <!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Introduction
@@ -33,22 +32,6 @@ The Lost and Found Management System streamlines the process of reporting and tr
 - **Database**: Oracle Relational Database Management System (RDBMS) provided by the department to manage and store all application data securely and efficiently.
 - **Version Control**: Git for collaborative code management and tracking changes.
 
-## Contributors
-
-- **Arjun Mishra**  
-  Student Number: 92830678  
-  CS Alias: i8m6m  
-  Email: arjun03@student.ubc.ca
-
-- **Heral Kumar**  
-  Student Number: 97381925  
-  CS Alias: g6e5e  
-  Email: heralk21@student.ubc.ca
-
-- **Ruhani Mittal**  
-  Student Number: 95861191  
-  CS Alias: g0v5t  
-  Email: rmittal7@student.ubc.ca
 <!-- 
 By including our names and student numbers, we certify that the work in this project was performed solely by us.
 
