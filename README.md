@@ -1,16 +1,10 @@
 # Lost and Found Management System
 
 ## Table of Contents
-
-- [Introduction](#introduction)
 - [Project Description](#project-description)
 - [Features](#features)
 - [Technology Stack](#technology-stack)<!-- - [Usage](#usage) --> <!-- - [Database Schema](#database-schema) - [Project Timeline](#project-timeline) -->
 <!-- - [Acknowledgments](#acknowledgments) -->
-
-## Introduction
-
-This project is developed as part of **CPSC 304** at the **University of British Columbia**. The main objective is to create a comprehensive Lost and Found management system for a university campus.
 
 ## Project Description
 
@@ -19,18 +13,18 @@ The Lost and Found Management System streamlines the process of reporting and tr
 ## Features
 
 - **User Management**: Users can register as either students or staff members.
-- **Item Reporting**: Users can report lost or found items with detailed descriptions.
-- **Item Tracking**: The system keeps track of all reported items and their statuses.
+- **Item Reporting**: Users can report lost or found items with detailed descriptions, including categories, location, and date.
+- **Item Tracking**: Search for items using dynamic filters and track the status of the reported items.
 - **Notifications**: Users receive notifications when there is a potential match for their lost or found items.
-- **Claims**: Users can claim items, and the system updates the status accordingly.
-- **Admin Interface**: For managing categories, statuses, and other system configurations.
+- **Claims**: Users can claim items, and the system automatically updates the status to "Claimed"
+- **Analyics and Insights**: Database operations like aggregation, grouping, and queries, provide insights like lost items counts by category or top categories per building.
 
 ## Technology Stack
 
 - **Backend**: SQL, Express.js, Node.js - for robust server side logic and database interactions.
 - **Frontend**: HTML - for building a user-friendly and responsive website.
-- **Database**: Oracle Relational Database Management System (RDBMS) provided by the department to manage and store all application data securely and efficiently.
-- **Version Control**: Git for collaborative code management and tracking changes.
+- **Database**: Oracle Relational Database Management System (RDBMS) - ensuring secure and efficient data handling.
+- **Version Control**: Git - for collaborative code management and tracking changes.
 
 <!-- 
 By including our names and student numbers, we certify that the work in this project was performed solely by us.
