@@ -24,7 +24,7 @@ The Lost and Found Management System streamlines the process of reporting and tr
 ## Technology Stack
 
 - **Backend**: SQL, Express.js, Node.js - for robust server-side logic and database interactions.
-- **Frontend**: HTML - for building a user-friendly and responsive website.
+- **Frontend**: HTML, Javascript, CSS - for building a user-friendly and responsive website.
 - **Database**: Oracle Relational Database Management System (RDBMS) - ensuring secure and efficient data handling.
 - **Version Control**: Git - for collaborative code management and tracking changes.
 
